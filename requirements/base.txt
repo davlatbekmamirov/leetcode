@@ -1,0 +1,5 @@
+django==4.2.4
+django-environ==0.10.0
+django-ckeditor==6.7.0
+drf-yasg==1.21.7
+psycopg2==2.9.7
